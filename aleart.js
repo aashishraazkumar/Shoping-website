@@ -1,0 +1,1 @@
+alert("Hey fellow LinkedIn fam! Just wanted to share a quick update and reminder for all my amazing customers. As we all know, good communication is key in any relationship, especially when it comes to business. So, I just wanted to send out a friendly");
