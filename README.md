@@ -400,7 +400,7 @@
           <div class="first"data-aos="fade-up-left">
               <div class="con">
                <div class="office"><i class="fa fa-phone"></i></div>
-              <h5>mbl number<br><span> (official) <br>+91 8877534980</span></h5>
+              <h5>mbl number<br><span> (official) <br>+91 7546827374</span></h5>
              </div>
           </div>
           <div class="first"data-aos="fade-up-right">
